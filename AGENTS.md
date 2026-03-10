@@ -1,4 +1,4 @@
-# Agent Guidance
+# AGENTS.md
 
 If the codebase shows conflicting patterns, unclear ownership, repeated failed fixes, or a solution that keeps widening, pause and name the tension before continuing.
 
