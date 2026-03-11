@@ -28,12 +28,8 @@ Copy [AGENTS.md](./AGENTS.md) into the root of a repository when you want always
 
 For agent use, reference the file directly rather than assuming the agent will inspect this README on its own.
 
-Examples:
+Install with:
 
-```text
-Copy AGENTS.md from lutzseverino/agents-md into this repository.
-```
-
-```text
-Use the AGENTS.md pattern from https://github.com/lutzseverino/agents-md/blob/main/AGENTS.md
+```bash
+curl -fsSL https://raw.githubusercontent.com/lutzseverino/agents-md/main/AGENTS.md -o AGENTS.md
 ```
